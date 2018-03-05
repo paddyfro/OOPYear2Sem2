@@ -1,0 +1,15 @@
+{ "songs" : [
+	{ "name" : "Lady",
+	  "artist" : "Styx",
+	  "runningTime" : 3.54
+	},
+	{ "name" : "Back in Black",
+	  "artist" : "AC/DC",
+	  "runningTime" : 4.21
+	},
+	{ "name" : "Total Eclipse of the Heart",
+	  "artist" : "Bonnie Tyler",
+	  "runningTime" : 5.32
+	}
+  ]
+}
